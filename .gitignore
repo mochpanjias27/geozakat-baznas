@@ -1,0 +1,6 @@
+.DS_Store
+.vercel
+__pycache__/
+*.pyc
+scripts/indonesia-prov.geojson
+node_modules/
